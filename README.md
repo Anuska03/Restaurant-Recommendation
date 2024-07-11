@@ -1,7 +1,7 @@
 # Restaurant-Recommendation
 The Restaurant Recommendation System analyzes restaurant data, performs exploratory data analysis (EDA), predicts restaurant ratings, recommends restaurants, and identifies patterns within the industry. This project uses machine learning and data analysis to provide insights and actionable recommendations. 
 
-Features:
+Features
 
 Data Analysis and EDA
 
@@ -38,4 +38,5 @@ Generate Recommendations: Implement the recommendation system using the provided
 Visualize Data: Utilize the visualization scripts to create geographical distribution maps and analyze cuisine popularity.
 
 Contributions
+
 Contributions are welcome! Feel free to submit a Pull Request or open an Issue to discuss changes or improvements.
